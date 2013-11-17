@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">SkinVibrator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">SKIN VIBOR</string>
+    <string name="toast_touch_dial">Touch the Dial !!</string>
+    <string name="hasVib">Welcom to Skin Vibrator</string>
+    <string name="hasNoVib">This device has no vibration motor</string>
+
+</resources>

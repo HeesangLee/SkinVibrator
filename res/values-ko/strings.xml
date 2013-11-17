@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">SkinVibrator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">SKIN VIBOR</string>
+    <string name="toast_touch_dial">다이얼을 터치하세요 !!</string>
+    <string name="hasVib">Welcom to Skin Vibrator</string>
+    <string name="hasNoVib">허걱!! 진동모터가 없네요~</string>
+    
+</resources>
