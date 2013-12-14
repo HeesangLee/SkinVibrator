@@ -66,11 +66,13 @@ public final class R {
         public static final int typing=0x7f040002;
     }
     public static final class string {
+        public static final int advertize_myself=0x7f050008;
         public static final int app_name=0x7f050000;
         public static final int hasNoVib=0x7f050006;
         public static final int hasVib=0x7f050005;
         public static final int hello_world=0x7f050001;
         public static final int menu_settings=0x7f050002;
+        public static final int say_good_bye=0x7f050007;
         public static final int title_activity_main=0x7f050003;
         public static final int toast_touch_dial=0x7f050004;
     }

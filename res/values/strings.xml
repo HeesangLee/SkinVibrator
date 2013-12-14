@@ -7,5 +7,7 @@
     <string name="toast_touch_dial">Touch the Dial !!</string>
     <string name="hasVib">Welcom to Skin Vibrator</string>
     <string name="hasNoVib">This device has no vibration motor</string>
+    <string name="say_good_bye">Do you really want to exit ??</string>
+    <string name="advertize_myself">More Free app?</string>
 
 </resources>
